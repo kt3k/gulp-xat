@@ -10,7 +10,7 @@
   },
   "name": "gulp-xat",
   "description": "> gulp plugin for [xat][] template",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "kocha test.js"

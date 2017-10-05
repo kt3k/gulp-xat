@@ -1,4 +1,4 @@
-# gulp-[xat][] v0.1.0
+# gulp-[xat][] v1.0.0
 
 > gulp plugin for [xat][] template
 
