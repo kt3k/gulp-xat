@@ -9,7 +9,7 @@
     "vinyl-file": "^3.0.0"
   },
   "name": "gulp-xat",
-  "description": "> gulp plugin for [xat][] template",
+  "description": "gulp plugin for xat template",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
