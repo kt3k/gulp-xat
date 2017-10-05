@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3",
+    "xat": "^1.0.1"
+  },
+  "devDependencies": {
+    "kocha": "^1.8.1",
+    "vinyl-file": "^3.0.0"
+  },
+  "name": "gulp-xat",
+  "description": "> gulp plugin for [xat][] template",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "kocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kt3k/gulp-xat.git"
+  },
+  "keywords": [
+    "xat",
+    "gulpplugin",
+    "gulpfriendly"
+  ],
+  "author": "Yoshiya Hinosawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kt3k/gulp-xat/issues"
+  },
+  "homepage": "https://github.com/kt3k/gulp-xat#readme"
+}
